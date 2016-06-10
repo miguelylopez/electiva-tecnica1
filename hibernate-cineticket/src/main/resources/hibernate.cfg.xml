@@ -25,7 +25,12 @@
         <mapping class="sv.edu.ucad.et1.cineticket.data.entities.Usuarios"/>
         <mapping class="sv.edu.ucad.et1.cineticket.data.entities.Biblio"/>
         <mapping class="sv.edu.ucad.et1.cineticket.data.entities.Editorial"/>
-
+        <mapping class="sv.edu.ucad.et1.cineticket.data.entities.Clientes"/>
+        <mapping class="sv.edu.ucad.et1.cineticket.data.entities.Prestamos"/>
+ 		<mapping class="sv.edu.ucad.et1.cineticket.data.entities.Autores"/>
+ 		<mapping class="sv.edu.ucad.et1.cineticket.data.entities.Catedraticos"/>
+ 		<mapping class="sv.edu.ucad.et1.cineticket.data.entities.Bitacora"/>
+ 		<mapping class="sv.edu.ucad.et1.cineticket.data.entities.Catbibliografia"/>
     </session-factory>
 
 </hibernate-configuration>

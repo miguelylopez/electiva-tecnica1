@@ -45,11 +45,11 @@ public class UnoaUno {
 		bib.setVolbib(1);
 		bib.setPagbib(200);
 		bib.setTitbib("java");
-		bib.setCvñbib("rojo");
+		bib.setCvñbib("Azul");
 		bib.setDewbib("mtu2");
-		bib.setCuttbib("102jk");
-		bib.setUbibib("arriba");
-		bib.setViadbib("donado");
+		bib.setCuttbib("1020k");
+		bib.setUbibib("medio");
+		bib.setViadbib("compra");
 		bib.setEdit(edit);
 		
 		
